@@ -1,19 +1,12 @@
-# Backend Developer
-Para esse teste, você deve criar uma aplicação com autenticação e cadastro de produtos com campos básicos como Nome, Imagem, Categoria e Descrição.
-
-## Requisitos
-- Código bem escrito
-- Autenticação utilizando JWT
-- Endpoints para login, consulta e inserção de produtos
-
-## Extras
-- Laravel
-- Aplicação em Vue.js consumindo os endpoints (aumentará bem sua pontuação)
-- Escrever pelo menos um teste
-
-## Informações
-- Disponibilizar URL com as credenciais para a visualização do teste
-- O código desenvolvido deve ser disponibilizado em um repositório
-- Você pode utilizar Bootstrap, Bulma ou algum outro framework que se sinta confortável
-- O layout não te fará perder pontos, mas crie uma aplicação agradável 
-
+<div align="center">
+  <h1>orbital-backend</h1>
+  <p>🚀 RESTful API + JWT built in Laravel 8</p>
+  <img src="https://img.shields.io/github/license/fnogcps/orbital-frontend?color=green&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/fnogcps/orbital-frontend?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <p></p>
+</div>
